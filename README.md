@@ -39,5 +39,3 @@ This is a **practice project** created while learning deep learning with PyTorch
 ---
 
 _This project is part of my learning journey in Machine Learning and Deep Learning._
-
-
